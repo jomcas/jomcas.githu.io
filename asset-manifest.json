@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a9154ac.css",
+    "main.js": "/static/js/main.b6927de7.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/algolympics.png": "/static/media/algolympics.fe4152b67b33d3c0caa2.png",
+    "static/media/formateacher.png": "/static/media/formateacher.dd8ee5966ecf836dbcd8.png",
+    "static/media/Resume.pdf": "/static/media/Resume.d1f4089e0547e259f9f6.pdf",
+    "static/media/drspeaks.jpeg": "/static/media/drspeaks.fd9c66bd933d386f4409.jpeg",
+    "static/media/homepic.png": "/static/media/homepic.f4f3449ce42a40e97147.png",
+    "static/media/smfoundation.jpeg": "/static/media/smfoundation.a3a4496b1dc4d66616aa.jpeg",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/notekeeper.jpeg": "/static/media/notekeeper.085050c56068695a3747.jpeg",
+    "static/media/theccitwall.jpeg": "/static/media/theccitwall.c66d2005c89594e19a13.jpeg",
+    "static/media/mmdaalert.png": "/static/media/mmdaalert.731b2ce38cc8394566de.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.3a9154ac.css.map": "/static/css/main.3a9154ac.css.map",
+    "main.b6927de7.js.map": "/static/js/main.b6927de7.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a9154ac.css",
+    "static/js/main.b6927de7.js"
+  ]
+}
